@@ -1,0 +1,118 @@
+{
+    "cards": [
+        {
+            "name": "KLINK KICK",
+            "description": "+1 to the CLICK DAMAGE",
+            "initial_gold_cost": 2,
+            "initial_gem_cost": 0,
+            "unlock_gem_cost": 0
+        },
+        {
+            "name": "DRAW THE SWORD",
+            "description": "+5 to the DAMAGE PER SECOND",
+            "initial_gold_cost": 6,
+            "initial_gem_cost": 0,
+            "unlock_gem_cost": 1
+        },
+        {
+            "name": "SHARPEN THE BLADE",
+            "description": "+200% to the damage from the card KLINK KICK",
+            "initial_gold_cost": 50,
+            "initial_gem_cost": 0,
+            "unlock_gem_cost": 1
+        },
+        {
+            "name": "SPELLCASTING",
+            "description": "+10 to the MAGIC DAMAGE",
+            "initial_gold_cost": 100,
+            "initial_gem_cost": 0,
+            "unlock_gem_cost": 1
+        },
+        {
+            "name": "SWING THE SWORD",
+            "description": "+500 to the DAMAGE PER SECOND",
+            "initial_gold_cost": 500,
+            "initial_gem_cost": 1,
+            "unlock_gem_cost": 1
+        },
+        {
+            "name": "MAGIC WAND",
+            "description": "+100 to the MAGIC DAMAGE",
+            "initial_gold_cost": 1000,
+            "initial_gem_cost": 0,
+            "unlock_gem_cost": 1
+        },
+        {
+            "name": "GOLDMINE",
+            "description": "+20% gold for defeating the enemy",
+            "initial_gold_cost": 2000,
+            "initial_gem_cost": 0,
+            "unlock_gem_cost": 1
+        },
+        {
+            "name": "MAGIC BLADE",
+            "description": "+100% to the CLICK DAMAGE and MAGIC DAMAGE",
+            "initial_gold_cost": 5000,
+            "initial_gem_cost": 0,
+            "unlock_gem_cost": 1
+        },
+        {
+            "name": "THE FORGE",
+            "description": "+1000% to the damage from the card DRAW THE SWORD",
+            "initial_gold_cost": 10000,
+            "initial_gem_cost": 0,
+            "unlock_gem_cost": 1
+        },
+        {
+            "name": "SUMMON A WIZARD",
+            "description": "+100% to the damage from the card SPELLCASTING",
+            "initial_gold_cost": 0,
+            "initial_gem_cost": 2,
+            "unlock_gem_cost": 1
+        },
+        {
+            "name": "BRONZE AKINAK",
+            "description": "+5000 to the CLICK DAMAGE",
+            "initial_gold_cost": 50000,
+            "initial_gem_cost": 0,
+            "unlock_gem_cost": 1
+        },
+        {
+            "name": "ARCENAL",
+            "description": "+10 to the damage from cards KLINK KICK, DRAW THE SWORD, SPELLCASTING",
+            "initial_gold_cost": 100000,
+            "initial_gem_cost": 0,
+            "unlock_gem_cost": 1
+        }
+    ],
+    "prestige_cards": [
+        {
+            "name": "MAGICAL FAMILIAR",
+            "description": "Gives +3 to MAGIC DAMAGE"
+        },
+        {
+            "name": "RONIN",
+            "description": "Gives +50 to DAMAGE PER SECOND"
+        },
+        {
+            "name": "SHARPENING",
+            "description": "Gives +2 to CLICK DAMAGE"
+        },
+        {
+            "name": "COLLECTION",
+            "description": "Relics are one gem cheaper"
+        },
+        {
+            "name": "ANVIL",
+            "description": "Gives +100% to DAMAGE PER SECOND"
+        },
+        {
+            "name": "DOJO",
+            "description": "Gives +100% to CLICK DAMAGE"
+        },
+        {
+            "name": "MAGIC BOOK",
+            "description": "Gives +100% to MAGIC DAMAGE"
+        }
+    ]
+}
